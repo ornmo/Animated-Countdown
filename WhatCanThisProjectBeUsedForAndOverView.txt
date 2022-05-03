@@ -1,0 +1,7 @@
+This project is an animated countdown from 3 to 0 
+
+It uses Flexbox, CSS animations and JavaScript
+
+This could be converted to be used in (for example) the following ways
+
+- funky loader for website or application
